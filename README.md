@@ -1,11 +1,11 @@
 ## Screens
 
-User Card
+## User Card
 ![alt text](https://github.com/Droid997/github/blob/main/screens/droid997.png)
 
 ![alt text](https://github.com/Droid997/github/blob/main/screens/google.png)
 
-Repos
+## Repos
 ![alt text](https://github.com/Droid997/github/blob/main/screens/repos.png)
 
 

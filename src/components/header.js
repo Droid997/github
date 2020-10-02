@@ -5,7 +5,7 @@ import axios from 'axios';
 class Header extends Component{
     constructor(props){
         super(props);
-        this.state={value:"Droid997"};
+        this.state={value:""};
         this.onHandleSubmit=this.onHandleSubmit.bind(this)
         this.handleOnChange=this.handleOnChange.bind(this)
         this.fetchUserDetails=this.fetchUserDetails.bind(this)

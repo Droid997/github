@@ -1,6 +1,14 @@
 ## Screens
 
-![alt text](https://github.com/Droid997/github/screens/droid997.png)
+User Card
+![alt text](https://github.com/Droid997/github/blob/main/screens/droid997.png)
+
+![alt text](https://github.com/Droid997/github/blob/main/screens/google.png)
+
+Repos
+![alt text](https://github.com/Droid997/github/blob/main/screens/repos.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
